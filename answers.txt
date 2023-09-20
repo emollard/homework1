@@ -1,2 +1,2 @@
 What is a remote repository?
-Is where the repository is hosted where multiple people can all acess change code and sync. Acts as a back up and more.
+Is where the repository is hosted where multiple people can all acess change code and sync. Acts as a back up and more
